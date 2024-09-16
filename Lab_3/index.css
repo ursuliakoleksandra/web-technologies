@@ -1,0 +1,9 @@
+hr{
+    width: 30%;
+    background-color: green;
+    height: 5px;
+}
+ul{
+    list-style-type:'*';
+    font-size: 30px;
+}
